@@ -9,10 +9,12 @@
       </td>
       <td width="50%">
         <!-- Code Block Card (Red Shades) -->
-        <pre><code><span style="color: #FF0055;">if</span> (<span style="color: #FF3366;">depressed</span>) {
-    <span style="color: #FF4D4D;">chai piyo</span>();
-    <span style="color: #FF6666;">code kro</span>();
-    <span style="color: #FF9999;">repeat</span>();
+        <pre><code><span style="color: #0066FF;">if</span> (<span style="color: #0099FF;">depressed</span>) {
+    <span style="color: #33ADFF;">chai piyo</span>();
+    <span style="color: #66C2FF;">code kro</span>();
+    <span style="color: #99D6FF;">repeat</span>();
+} <span style="color: #0066FF;">else</span> {
+    <span style="color: #4DB8FF;">just chill</span>();
 }</code></pre>
       </td>
     </tr>

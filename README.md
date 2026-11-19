@@ -4,7 +4,7 @@
       <td width="50%" align="center">
         <!-- Animated Typing Text (Vibrant Red: FF0055) -->
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF0055&center=true&vCenter=true&width=360&lines=Hello+World...!;My+Self+TAUSIF" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF0055&center=true&vCenter=true&width=360&lines=Hello+World...!;MySelf+TAUSIF" alt="Typing SVG" />
         </a>
       </td>
       <td width="50%">
